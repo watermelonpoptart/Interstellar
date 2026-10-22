@@ -103,12 +103,11 @@ function randRange(min, max) {
 (function buildHeading() {
   const heading = document.querySelector("Dexter club goats");
   if (!heading) return;
-  (function buildHeading() {
-  const heading = document.querySelector("Dexter club goats");
+ function buildHeading() {
+  // Replace 'h1' with your heading's actual tag, #id, or .class if it's different
+  const heading = document.querySelector("h1"); 
   if (!heading) return;
   
-  // Type your custom name inside the quotes below!
-  heading.textContent = "Dexter club goats"; 
+  // 1. Type your custom name inside the quotes below!
+  heading.textContent = "Bbc proxy Decters big black cock proxy"; 
 })();
-
-  
