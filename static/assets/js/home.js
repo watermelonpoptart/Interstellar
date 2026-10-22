@@ -101,10 +101,10 @@ function randRange(min, max) {
 }
 
 (function buildHeading() {
-  const heading = document.querySelector("h1.title");
+  const heading = document.querySelector("Dexter club goats");
   if (!heading) return;
   (function buildHeading() {
-  const heading = document.querySelector("h1.title");
+  const heading = document.querySelector("Dexter club goats");
   if (!heading) return;
   
   // Type your custom name inside the quotes below!
