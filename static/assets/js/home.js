@@ -46,16 +46,16 @@ if (!inFrame && !navigator.userAgent.includes("Firefox") && store.get("ab") === 
 }
 
 const SplashT = [
-  "Over 8 Million Users since 2023",
-  "Fastest growing proxy server",
-  "Made by xBubbo",
+  "Dexter equal water",
+  "no water use",
+  "Made by water",
   "Check out discord.gg/interstellar :)",
   "Thanks for using the site",
-  "Follow us on Tiktok (@useinterstellar)",
-  "Subscribe to us on YouTube (@unblocking)",
+  "Follow us on Tiktac (@useinterstellar)",
+  "Subscribe to us on Youboobs (@unblocking)",
   "Subscribe to my Youtube (@xbubbo)",
-  "Check out the settings page",
-  "Check out our Patreon (https://www.patreon.com/gointerstellar)",
+  "def Check out the settings page",
+  "Dont check out our Patreon (https://www.patreon.com/gointerstellar)",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
